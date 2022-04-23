@@ -1,0 +1,13 @@
+
+.btn{
+	padding: 10px;
+	font-size: 15px;
+    
+	color: mediumblue;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+}
+.tbody{
+	overflow: visible;
+}
